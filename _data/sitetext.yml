@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     title: Welcome to the Denizens Lab!
     text: It's Nice To Meet You
     button: Tell Me More
-    buttonlink: "#services"
+    buttonlink: "#portfolio"
 
   about:
     title: "About Us"
@@ -23,9 +23,9 @@ en: &DEFAULT_EN
     section: about
 
   services:
-    title: "Services"
+    title: "Research"
     text: "Lorem ipsum"
-    section: services
+    section: research
     list:
       - title: "E-Commerce"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
@@ -38,15 +38,15 @@ en: &DEFAULT_EN
         icon: fab fa-markdown
 
   portfolio:
-    title: "Portfolio"
+    title: "Publications"
     text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
+    section: publications
     closebutton: "Close Project"
 
   timeline:
-    title: "Timeline"
+    title: "News"
     text: "Lorem ipsum timeline"
-    section: timeline
+    section: news
     # left is the default
     #start_align: "left"
     events:
