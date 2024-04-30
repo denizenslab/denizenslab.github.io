@@ -17,12 +17,14 @@ en: &DEFAULT_EN
       section: research
     - title: "Publications"
       section: portfolio
-    - title: "News"
-      section: news
+    # - title: "News"
+    #   section: news
     - title: "Team"
       section: team
-    - title: "Contact"
-      section: contact
+    - title: "Teaching"
+      url:  /teaching
+    # - title: "Contact"
+    #   section: contact
     # - title: "Theme Source"
     #   url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
