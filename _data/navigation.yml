@@ -21,6 +21,8 @@ en: &DEFAULT_EN
     #   section: news
     - title: "Team"
       section: team
+    # - title: "Alumni"
+    #   section: alumni
     - title: "Teaching"
       url:  /teaching
     # - title: "Contact"
