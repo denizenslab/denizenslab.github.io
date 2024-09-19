@@ -20,7 +20,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 title      : Denizens Lab
 email      : your-email@example.com #this is also the email contact forms will go to
 description: "The official website of the Denziens lab at TU Berlin."
-author     : Anuja Negi
+author     : Anuja Negi, Lea Musiolek
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
