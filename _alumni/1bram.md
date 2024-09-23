@@ -1,7 +1,7 @@
 ---
 name: "Bramantyo Supriyatno"
 role: 
-image: assets/img/alumni/bram.jpg
+image: assets/img/alumni/bram.jpeg
 social:
     - url: mailto:supriyatno@mpib-berlin.mpg.de
       icon: fas fa-envelope
