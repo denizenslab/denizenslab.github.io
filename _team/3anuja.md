@@ -3,7 +3,7 @@ name: "Anuja Negi"
 role: PhD Student
 image: assets/img/team/anuja.jpg
 social:
-    - url: mailto:anuja-negi@tu-berlin.de
+    - url: mailto:anuja.negi@tu-berlin.de
       icon: fas fa-envelope
     - url: http://anujanegi.me/
       icon: fas fa-globe
