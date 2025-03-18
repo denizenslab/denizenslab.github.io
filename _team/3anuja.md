@@ -18,7 +18,7 @@ title: "Anuja Negi"
 subtitle: "PhD Student"
 ---
 Room: MAR 5.061 <br>
-Email: mail@tu-berlin.de <br>
+Email: anuja.negi@tu-berlin.de <br>
 Office hours: on appointment <br>
 
 <!-- <p style="text-align: left"> -->
