@@ -1,5 +1,5 @@
 ---
-name: "Salomeia Sadovnik"
+name: "Saloemia Sadovnik"
 role: Student Assistant
 image: assets/img/team/salomeia.jpg
 social:
@@ -10,6 +10,6 @@ social:
     # - url: https://scholar.google.com
     #   icon: fas fa-graduation-cap
 # things that go in the expanded view
-title: "Salomeia Sadovnik"
+title: "Saloemia Sadovnik"
 subtitle: "Student Assistant"
 ---
