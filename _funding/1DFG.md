@@ -1,5 +1,5 @@
 ---
-name: "DFG"
+name: "Deutsche Forschungsgemeinschaft"
 image: assets/img/funding/dfg.jpg
 social:
     - url: https://www.dfg.de/de
