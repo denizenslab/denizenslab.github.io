@@ -102,6 +102,11 @@ en: &DEFAULT_EN
   alumni:
     title: "Alumni"
     section: alumni
+    
+  funding:
+    title: "Funding"
+    text: "Our research is funded by the following agencies:"
+    section: funding
 
   # contact:
   #   title: "Contact Us"
