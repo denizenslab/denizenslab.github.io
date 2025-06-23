@@ -33,7 +33,18 @@
 
     if(readCookie('cookie-notice-dismissed')=='true') {
  console.log('Cookie notice dismissed');
-        
+            
+var ga = document.createElement('script');
+    ga.src = 'https://www.googletagmanager.com/gtag/js?id=REDACTED';
+    ga.async = true;
+    document.head.appendChild(ga);
+
+    ga.onload = function() {
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'REDACTED');
+    };
         
     } else {
         document.getElementById('cookie-notice').style.display = 'block';
