@@ -56,3 +56,74 @@ var ga = document.createElement('script');
     });
 
 </script>
+
+<!-- GDPR Modal -->
+<style>
+    #gdpr-modal {
+        display: none; 
+        position: fixed; 
+        top: 0; left: 0; 
+        width: 100%; 
+        height: 100%; 
+        background: rgba(0,0,0,0.7); 
+        z-index: 1000;
+    }
+    #gdpr-modal .modal-content {
+        background: #fff;
+        color: #333;
+        max-width: 600px;
+        margin: 10% auto;
+        padding: 2rem;
+        border-radius: 10px;
+        position: relative;
+        box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+    }
+    #gdpr-modal .close-modal {
+        position: absolute;
+        top: 10px;
+        right: 15px;
+        font-size: 1.5rem;
+        font-weight: bold;
+        color: #999;
+        cursor: pointer;
+    }
+    #gdpr-modal .close-modal:hover {
+        color: #333;
+    }
+</style>
+
+<div id="gdpr-modal">
+    <div class="modal-content">
+        <span class="close-modal">&times;</span>
+        <h2>Privacy & Cookie Notice</h2>
+        <p>We use Google Analytics to understand how visitors interact with our site. This helps us improve content and performance.</p>
+        <p>By approving, you allow third-party cookies and scripts to run. No personal data is stored or shared without your consent.</p>
+    </div>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    const modal = document.getElementById("gdpr-modal");
+    const openModal = document.querySelector("#cookie-notice a[href='/privacy']");
+    const closeModal = document.querySelector(".close-modal");
+
+    if (openModal) {
+        openModal.addEventListener("click", function(e) {
+            e.preventDefault();
+            modal.style.display = "block";
+        });
+    }
+
+    if (closeModal) {
+        closeModal.addEventListener("click", function() {
+            modal.style.display = "none";
+        });
+    }
+
+    window.addEventListener("click", function(e) {
+        if (e.target === modal) {
+            modal.style.display = "none";
+        }
+    });
+});
+</script>
