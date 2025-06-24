@@ -304,7 +304,8 @@ function readCookie(name) {
     return null;
 }
 function loadGA() {
-    if (!GA_MEASUREMENT_ID) return;
+    if (!GA_MEASUREMENT_ID) {console.log("ga not active");return;}
+    console.log("ga active");
     var ga = document.createElement('script');
     ga.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA_MEASUREMENT_ID;
     ga.async = true;
