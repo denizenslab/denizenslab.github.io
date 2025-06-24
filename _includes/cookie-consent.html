@@ -1,3 +1,10 @@
+
+{% assign ga_id = site.google_analytics %}
+{% if ga_id == "ENV_GA_TOKEN" %}
+  {% assign ga_id = site.env.GA_TOKEN %}
+{% endif %}
+
+<!-- Cookie Consent Banner -->
 <style>
     #cookie-notice {
         position: fixed;
@@ -13,27 +20,23 @@
         display: none;
         box-shadow: 0 4px 10px rgba(0,0,0,0.3);
     }
-
     #cookie-notice span {
         display: block;
         margin-bottom: 0.5rem;
     }
-
     #cookie-notice a {
         display: inline-block;
         margin: 0 0.25rem;
         padding: 0.35rem 0.75rem;
-        
+        background-color: #007bff;
         color: #fff;
         text-decoration: none;
         border-radius: 4px;
         font-size: 0.9rem;
     }
-
     #cookie-notice a:hover {
         background-color: #0056b3;
     }
-
     @media (max-width: 767px) {
         #cookie-notice {
             width: 90%;
@@ -43,66 +46,22 @@
     }
 </style>
 
-<div id="cookie-notice"><span>We would like to use third party cookies and scripts to improve the functionality of this website.</span><a id="cookie-notice-accept" class="btn btn-primary btn-sm">Approve</a><a href="/privacy" class="btn btn-primary btn-sm">More info</a></div>
-<script>
-    function createCookie(name,value,days) {
-        var expires = "";
-        if (days) {
-            var date = new Date();
-            date.setTime(date.getTime() + (days*24*60*60*1000));
-            expires = "; expires=" + date.toUTCString();
-        }
-        document.cookie = name + "=" + value + expires + "; path=/";
-    }
-    function readCookie(name) {
-        var nameEQ = name + "=";
-        var ca = document.cookie.split(';');
-        for(var i=0;i < ca.length;i++) {
-            var c = ca[i];
-            while (c.charAt(0)==' ') c = c.substring(1,c.length);
-            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
-        }
-        return null;
-    }
-    function eraseCookie(name) {
-        createCookie(name,"",-1);
-    }
-
-    if(readCookie('cookie-notice-dismissed')=='true') {
- console.log('Cookie notice dismissed');
-            
-var ga = document.createElement('script');
-    ga.src = 'https://www.googletagmanager.com/gtag/js?id=REDACTED';
-    ga.async = true;
-    document.head.appendChild(ga);
-
-    ga.onload = function() {
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'REDACTED');
-    };
-        
-    } else {
-        document.getElementById('cookie-notice').style.display = 'block';
-    }
-    document.getElementById('cookie-notice-accept').addEventListener("click",function() {
-        createCookie('cookie-notice-dismissed','true',31);
-        document.getElementById('cookie-notice').style.display = 'none';
-        location.reload();
-    });
-
-</script>
+<div id="cookie-notice">
+    <span>We use cookies and third-party scripts to improve functionality.</span>
+    <a id="cookie-notice-accept">Accept</a>
+    <a id="cookie-notice-decline">Decline</a>
+    <a href="/privacy" class="btn btn-primary btn-sm">More info</a>
+</div>
 
 <!-- GDPR Modal -->
 <style>
     #gdpr-modal {
-        display: none; 
-        position: fixed; 
-        top: 0; left: 0; 
-        width: 100%; 
-        height: 100%; 
-        background: rgba(0,0,0,0.7); 
+        display: none;
+        position: fixed;
+        top: 0; left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0,0,0,0.7);
         z-index: 1000;
     }
     #gdpr-modal .modal-content {
@@ -139,7 +98,61 @@ var ga = document.createElement('script');
 </div>
 
 <script>
-document.addEventListener("DOMContentLoaded", function() {
+function createCookie(name,value,days) {
+    var expires = "";
+    if (days) {
+        var date = new Date();
+        date.setTime(date.getTime() + (days*24*60*60*1000));
+        expires = "; expires=" + date.toUTCString();
+    }
+    document.cookie = name + "=" + value + expires + "; path=/";
+}
+function readCookie(name) {
+    var nameEQ = name + "=";
+    var ca = document.cookie.split(';');
+    for(var i=0;i < ca.length;i++) {
+        var c = ca[i];
+        while (c.charAt(0)==' ') c = c.substring(1,c.length);
+        if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+    }
+    return null;
+}
+function loadGA() {
+    if (!GA_MEASUREMENT_ID) return;
+    var ga = document.createElement('script');
+    ga.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA_MEASUREMENT_ID;
+    ga.async = true;
+    document.head.appendChild(ga);
+
+    ga.onload = function() {
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', GA_MEASUREMENT_ID);
+    };
+}
+
+document.addEventListener("DOMContentLoaded", function () {
+    // Cookie Banner Logic
+    const notice = document.getElementById('cookie-notice');
+    if (readCookie('cookie-consent') === 'accepted') {
+        loadGA();
+    } else if (readCookie('cookie-consent') !== 'declined') {
+        notice.style.display = 'block';
+    }
+
+    document.getElementById('cookie-notice-accept').addEventListener("click", function() {
+        createCookie('cookie-consent','accepted',365);
+        notice.style.display = 'none';
+        loadGA();
+    });
+
+    document.getElementById('cookie-notice-decline').addEventListener("click", function() {
+        createCookie('cookie-consent','declined',365);
+        notice.style.display = 'none';
+    });
+
+    // GDPR Modal Logic
     const modal = document.getElementById("gdpr-modal");
     const openModal = document.querySelector("#cookie-notice a[href='/privacy']");
     const closeModal = document.querySelector(".close-modal");
