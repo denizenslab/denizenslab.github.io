@@ -4,6 +4,10 @@
   {% assign ga_id = site.env.GA_TOKEN %}
 {% endif %}
 
+<script>
+  var GA_MEASUREMENT_ID = "{{ ga_id }}";
+</script>
+
 <!-- Cookie Consent Banner -->
 <style>
     #cookie-notice {
