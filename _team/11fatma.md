@@ -9,6 +9,8 @@ social:
       icon: fas fa-globe
     - url: https://www.linkedin.com/in/fatma-deniz/
       icon: fab fa-linkedin-in
+    - url: https://scholar.google.com/citations?user=Cu7zyVkAAAAJ&hl=en
+      icon: fas fa-graduation-cap
     # - url: https://scholar.google.com
     #   icon: fas fa-graduation-cap
   
