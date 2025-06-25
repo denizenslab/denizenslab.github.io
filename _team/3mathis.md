@@ -9,6 +9,8 @@ social:
       icon: fab fa-twitter
     - url: https://www.linkedin.com/in/mathis-lamarre/
       icon: fab fa-linkedin-in
+    - url: https://scholar.google.com/citations?user=uQ-FSzQAAAAJ&hl=en
+      icon: fas fa-graduation-cap
 title: "Mathis Lamarre"
 subtitle: "PhD student"
 ---
