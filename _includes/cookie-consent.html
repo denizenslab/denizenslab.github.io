@@ -32,14 +32,14 @@
         display: inline-block;
         margin: 0 0.25rem;
         padding: 0.35rem 0.75rem;
-        background-color: #007bff;
+        background-color: #FA8825;
         color: #fff;
         text-decoration: none;
         border-radius: 4px;
         font-size: 0.9rem;
     }
     #cookie-notice a:hover {
-        background-color: #0056b3;
+        background-color: #FA8825;
     }
     @media (max-width: 767px) {
         #cookie-notice {
@@ -94,7 +94,8 @@
 
 <div id="gdpr-modal">
     <div class="modal-content">
-        <span class="close-modal">&times;</span>
+        <span class="close-modal" onclick="document.getElementById('gdpr-modal').style.display='none'">&times;</span>
+
         <h2>Privacy & Cookie Notice</h2>
         <p>We use Google Analytics to understand how visitors interact with our site. This helps us improve content and performance.</p>
         <p>By approving, you allow third-party cookies and scripts to run. No personal data is stored or shared without your consent.</p>
@@ -181,4 +182,6 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     });
 });
+
+
 </script>
