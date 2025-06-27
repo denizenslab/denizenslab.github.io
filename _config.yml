@@ -18,7 +18,7 @@ url    : "denizenslab.github.io" # the base hostname & protocol for your site, e
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Denizens Lab
-email      : your-email@example.com #this is also the email contact forms will go to
+email      : denizenslab@gmail.com #this is also the email contact forms will go to
 description: "The official website of the Denziens lab at TU Berlin."
 author     : Anuja Negi, Lea Musiolek
 # logo:     #optional, defaults to site title
