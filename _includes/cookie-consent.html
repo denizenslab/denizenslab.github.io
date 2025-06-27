@@ -1,11 +1,16 @@
-
 {% assign ga_id = site.google_analytics %}
 {% if ga_id == "ENV_GA_TOKEN" %}
   {% assign ga_id = site.env.GA_TOKEN %}
 {% endif %}
 
+<!-- Fallback: Try to get from environment directly if site.env doesn't work -->
+{% unless ga_id and ga_id != "ENV_GA_TOKEN" %}
+  {% assign ga_id = ENV['GA_TOKEN'] %}
+{% endunless %}
+
 <script>
   var GA_MEASUREMENT_ID = "{{ ga_id }}";
+  console.log("GA_MEASUREMENT_ID:", GA_MEASUREMENT_ID); // Debug line
 </script>
 
 <!-- Cookie Consent Banner -->
@@ -124,8 +129,11 @@ function readCookie(name) {
     return null;
 }
 function loadGA() {
-    if (!GA_MEASUREMENT_ID) {console.log("ga not active");return;}
-    console.log("ga active");
+    if (!GA_MEASUREMENT_ID || GA_MEASUREMENT_ID === "ENV_GA_TOKEN" || GA_MEASUREMENT_ID === "") {
+        console.log("ga not active - GA_MEASUREMENT_ID:", GA_MEASUREMENT_ID);
+        return;
+    }
+    console.log("ga active - GA_MEASUREMENT_ID:", GA_MEASUREMENT_ID);
     var ga = document.createElement('script');
     ga.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA_MEASUREMENT_ID;
     ga.async = true;
@@ -183,6 +191,4 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     });
 });
-
-
 </script>
