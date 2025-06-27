@@ -12,23 +12,33 @@ This Privacy Policy describes how your personal information is collected, used, 
 
 **PERSONAL INFORMATION WE COLLECT**
 
-{% if site.analytics.google %}
 
-Automatically Collected (Google Analytics):
 
-When you visit the Site, we automatically receive information about your device from your browser, such as your IP address. As you browse the Site, we also collect information about how you interact with the Site. We refer to this automatically-collected information as “Device Information”.
+When you visit the Site, we may collect certain information about your device and how you interact with the Site—but **only if you consent to the use of analytics cookies**.
 
-We collect Device Information using cookies. “Cookies” are data files that are placed on your device. For more information about cookies and how to disable them, visit http://www.allaboutcookies.org.
+We use cookies—small data files stored on your device—to enable this functionality. For more information about cookies and how to manage or disable them, visit [www.allaboutcookies.org](https://www.allaboutcookies.org).
 
-We do this using Google Analytics: <https://www.google.com/intl/en/policies/privacy/>.
+With your consent, we use [**Google Analytics**](https://www.google.com/intl/en/policies/privacy/) to help us understand how visitors use the Site.
 
-You can opt-out of Google Analytics here: <https://tools.google.com/dlpage/gaoptout>.
+With your consent, we use Google Analytics to help us understand how visitors use the Site so we can improve our services and user experience. The information collected through Google Analytics may include:
 
-{% else %}
+* Your anonymized IP address
 
-We do not collect any data about you or use any cookies.
+* Browser type and version
 
-{% endif %}
+* Device type and operating system
+
+* Referring website or source (how you arrived at the Site)
+
+* Pages visited and time spent on each page
+
+* Clicks, scrolls, and other interactions on the Site
+
+* Approximate geographic location (based on IP address)
+
+This information is collected and processed by Google Ireland Ltd and may be transferred outside the EU under appropriate safeguards. You can learn more about how Google uses your data here: Google Privacy Policy.
+
+
 
 **CHANGES**
 
