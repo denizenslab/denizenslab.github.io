@@ -17,8 +17,8 @@ en: &DEFAULT_EN
       section: research
     - title: "Publications"
       section: portfolio
-    # - title: "News"
-    #   section: news
+    - title: "Press"
+      section: press
     - title: "Team"
       section: team
     # - title: "Alumni"

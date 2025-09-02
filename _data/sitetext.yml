@@ -43,6 +43,12 @@ en: &DEFAULT_EN
     text: 
     section: publications
     closebutton: "Close"
+    
+  press:
+    title: "Press"
+    text: 
+    section: press
+    closebutton: "Close"
 # 
   # timeline:
   #   title: "News"

@@ -39,6 +39,7 @@ plugins:
 
 collections:
   portfolio:
+  press:
   team:
   alumni:
   funding:
