@@ -1,8 +1,8 @@
 ---
 layout: profiles
-permalink: /people/
-title: people
-description: members of the lab or group
+permalink: /team/
+title: Team Denizens
+description: Meet our amazing team!
 nav: true
 nav_order: 7
 
@@ -10,19 +10,49 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+    image: team/fatma.jpg
+    content: 11fatma.md
+    image_circular: true # crops the image to make it circular
+#     more_info: >
+#       <p>url: mailto:deniz@tu-berlin.de    icon: fas fa-envelope</p>
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+    image: team/subba.jpg
+    content: 12subba.md
+    image_circular: true # crops the image to make it circular
+  - align: right
+    image: team/chris.jpg
+    content: 21chris.md
+    image_circular: true # crops the image to make it circular
+  - align: left
+    image: team/mathis.jpg
+    content: 3mathis.md
+    image_circular: true # crops the image to make it circular
+  - align: right
+    image: team/anuja.jpg
+    content: 4anuja.md
+    image_circular: true # crops the image to make it circular
+  - align: left
+    image: team/peter.jpeg
+    content: 5peter.md
+    image_circular: true # crops the image to make it circular
+  - align: right
+    image: team/omar.jpg
+    content: 6omar.md
+    image_circular: true # crops the image to make it circular
+  - align: left
+    image: team/lea.jpeg
+    content: 7lea.md
+    image_circular: true # crops the image to make it circular
+  - align: right
+    image: team/abeni.jpg
+    content: 8abeni.md
+    image_circular: true # crops the image to make it circular
+  - align: left
+    image: team/salomeia.jpg
+    content: 91salomeia.md
+    image_circular: true # crops the image to make it circular
+  - align: right
+    image: team/abdalmajead.png
+    content: 92abdalmajead.md
+    image_circular: true # crops the image to make it circular
 ---
