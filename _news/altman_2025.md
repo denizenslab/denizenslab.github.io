@@ -1,10 +1,7 @@
 ---
 layout: post
-date: 2025
-inline: false
+date: 2025-02-07
+inline: true
 related_posts: false
 ---
-
-Panel discussion with Sam Altman: The Age of AI, Technical University Berlin
-
----
+"The Age of AI", a panel discussion with Sam Altman at Technical University Berlin, moderated by Prof. Deniz
