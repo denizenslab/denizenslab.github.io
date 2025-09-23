@@ -1,15 +1,15 @@
 ---
 layout: page
-title: teaching
-permalink: /teaching/
-description: Teaching @ Denizens Lab
-nav: true
-nav_order: 4
-display_categories: [public]
+title: Courses
+permalink: /courses/
+description: Courses offered by the Denizens Lab
+nav: false
+nav_order: 
+display_categories: [SoSe25, archive]
 horizontal: false
 ---
 
-<!-- pages/teaching.md -->
+<!-- pages/courses.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
@@ -17,7 +17,7 @@ horizontal: false
   <a id="{{ category }}" href=".#{{ category }}">
     <h2 class="category">{{ category }}</h2>
   </a>
-  {% assign categorized_projects = site.teaching | where: "category", category %}
+  {% assign categorized_projects = site.courses | where: "category", category %}
   {% assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
   {% if page.horizontal %}
@@ -41,7 +41,7 @@ horizontal: false
 
 <!-- Display projects without categories -->
 
-{% assign sorted_projects = site.teaching | sort: "importance" %}
+{% assign sorted_projects = site.courses | sort: "importance" %}
 
   <!-- Generate cards for each project -->
 
