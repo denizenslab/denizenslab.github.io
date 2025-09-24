@@ -143,19 +143,23 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
-  books:
-    output: true
   news:
     defaults:
       layout: post
     output: true
+  books:
+    output: true
   projects:
+    output: true
+  posters:
     output: true
   funding:
     output: true
   courses:
     output: true
   seminars:
+    output: true
+  data_repos:
     output: true
 
 # -----------------------------------------------------------------------------
