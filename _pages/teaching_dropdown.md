@@ -2,7 +2,7 @@
 layout: page
 title: Teaching
 nav: true
-nav_order: 8
+nav_order: 5
 dropdown: true
 children:
   - title: Courses
