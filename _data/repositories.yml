@@ -1,7 +1,21 @@
 github_users:
-  - denizenslab
+#  - denizenslab
 
 repo_description_lines_max: 2
 
 github_repos:
   - denizenslab/pymooney
+  - denizenslab/viewer-cukur-2013
+  - denizenslab/timescales_filtering
+  - denizenslab/headcase-pipeline
+  - denizenslab/viewer-deniz-2019
+  - denizenslab/viewer-chen-2024
+  - denizenslab/prepwave
+  
+#  - denizenslab/lingshift_stimuli
+#  - denizenslab/compare-variance-residual
+#  - denizenslab/bling_tuning
+#  - denizenslab/single_words
+#  - denizenslab/fonda-c1-workflows-in-neuroscience
+#  - denizenslab/bling
+#  - denizenslab/mvdocprep
