@@ -2,7 +2,7 @@
 layout: page
 title: Funding
 permalink: /funding/
-description: Our research is funded by the following agencies.
+description: We are grateful to the following agencies for funding our research.
 nav: true
 nav_order: 4
 display_categories: [public]

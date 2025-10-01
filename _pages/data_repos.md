@@ -2,7 +2,7 @@
 layout: page
 title: Data
 permalink: /data/
-description: The Denizenslab's research datasets. Please find our GIN page <a href="https://gin.g-node.org/denizenslab/">here</a>.
+description: The Denizenslab's research datasets. Please find our GIN page <a href="https://gin.g-node.org/denizenslab/">HERE</a>.
 nav: false
 nav_order: 
 display_categories:

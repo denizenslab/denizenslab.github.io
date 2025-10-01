@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.tu.berlin/coco'>Cognitive Computing in biological and artificial systems @ TU Berlin</a>
+subtitle: <a href='https://www.tu.berlin/coco'>Cognitive Computing in Biological and Artificial Systems @ TU Berlin</a>
 
 profile:
   align: center

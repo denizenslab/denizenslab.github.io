@@ -8,7 +8,7 @@
 <!-- <p style="text-align: left"> -->
 Fatma Deniz is the Principal Investigator. Fatma routinely disregards disciplinary boundaries and follows her curiosity. This makes her work lie at the intersection between data science, neuroscience, and artificial intelligence. She designs and promotes approaches for scientific reproducibility and co-edited a book on reproducibility published [here.](https://www.ucpress.edu/book/9780520294752/the-practice-of-reproducible-research) [Here is an online version of the book.](http://www.practicereproducibleresearch.org/) 
 
-She also worked on improving online user authentication applications using image-based authentication procedures combined with knowledge gained from cognitive neuroscience (Check [MooneyAuth](https://mooneyauth.org/static/index.php) ) and created a database of two-tone Mooney images. E-mail Fatma if you would like to use those for your research. Code is available on [GitHub.](https://github.com/fatmai/pymooney)
+She also worked on improving online user authentication applications using image-based authentication procedures combined with knowledge gained from cognitive neuroscience (Check [MooneyAuth](https://mooneyauth.org/static/index.php)) and created a database of two-tone Mooney images. E-mail Fatma if you would like to use those for your research. Code is available on [GitHub.](https://github.com/fatmai/pymooney)
 
 Fatma is a passionate coder, baker, and she loves feeling the resonance when playing the cello which makes her simply happy.
 
