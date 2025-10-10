@@ -1,10 +1,10 @@
 ---
-name: "European Research Council"
-image: assets/img/funding/erc.png
-social:
-    - url: https://erc.europa.eu/homepage
-      icon: fas fa-globe
-# things that go in the expanded view
-title: "European Research Council (ERC)"
-subtitle: "EU-wide research funding agency"
+layout: page
+title: European Research Council (ERC)
+description: EU-wide research funding agency
+img: assets/img/funding/erc.png
+importance: 3
+category: public
+related_publications: false
 ---
+<a href="https://erc.europa.eu/homepage" title="Link"><i class="fas fa-globe"></i></a>

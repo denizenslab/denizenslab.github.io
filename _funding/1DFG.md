@@ -1,10 +1,10 @@
 ---
-name: "Deutsche Forschungsgemeinschaft"
-image: assets/img/funding/dfg.jpg
-social:
-    - url: https://www.dfg.de/de
-      icon: fas fa-globe
-# things that go in the expanded view
-title: "Deutsche Forschungsgemeinschaft"
-subtitle: "German state research funding agency"
+layout: page
+title: Deutsche Forschungsgemeinschaft
+description: German state research funding agency
+img: assets/img/funding/dfg.jpg
+importance: 1
+category: public
+related_publications: false
 ---
+<a href="https://www.dfg.de/de" title="Link"><i class="fas fa-globe"></i></a>
