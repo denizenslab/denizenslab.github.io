@@ -3,6 +3,8 @@ layout: about
 title: About
 permalink: /
 subtitle: <a href='https://www.tu.berlin/coco'>Cognitive Computing in Biological and Artificial Systems @ TU Berlin</a>
+background:
+  image: bg-static.jpg
 
 profile:
   align: center
