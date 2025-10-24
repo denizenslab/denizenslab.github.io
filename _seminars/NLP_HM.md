@@ -2,7 +2,7 @@
 layout: page
 title: Natural Language Processing in Humans and Machines
 description: NLP_HM
-img: assets/img/teaching/nlp.png #add img here, place it in /assets/img/
+img: assets/img/nlp.png #add img here, place it in /assets/img/
 importance: 1
 category: WiSe24
 related_publications: false
@@ -18,7 +18,7 @@ Instructors: [Anuja Negi](https://anujanegi.me/), Mathis Lamarre, [Subba Reddy O
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/teaching/nlp.png" title="nlp_logo" class="img-fluid rounded z-depth-1"%}
+        {% include figure.liquid loading="eager" path="assets/img/nlp.png" title="nlp_logo" class="img-fluid rounded z-depth-1"%}
     </div>
 </div>
 
@@ -52,7 +52,7 @@ Instructors: [Anuja Negi](https://anujanegi.me/), Mathis Lamarre, [Subba Reddy O
   </tr>
   <tr>
     <td class="tg-wo29">Lecture Period</td>
-    <td class="tg-wo29">not offered in the summer semester of 2025</td>
+    <td class="tg-wo29">Due to conflicting schedules, the seminar will not be offered in the winter semester of 2025/26.</td>
   </tr>
   <tr>
     <td class="tg-wo29">Report submission deadline</td>
