@@ -4,7 +4,7 @@ title: Natural Language Processing in Humans and Machines
 description: NLP_HM
 img: assets/img/nlp.png #add img here, place it in /assets/img/
 importance: 1
-category: WiSe24
+category: WiSe25
 related_publications: false
 # redirect:
 ---
