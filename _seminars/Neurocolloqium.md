@@ -185,7 +185,7 @@ and stimulus modalities
     <td class="tg-wo29">Jan 22, 2026</td>
     <td class="tg-wo29"><a href="https://www.biorxiv.org/content/10.1101/2025.06.23.661103v2.full" target="_blank" rel="noopener noreferrer">Attention is all you need (in the brain): semantic contextualization in human hippocampus
 </a></td>
-    <td class="tg-fzdr">Doruk</td>
+    <td class="tg-fzdr">Thomas</td>
   </tr>
   <tr>
     <td class="tg-wo29">Jan 29, 2026</td>
@@ -203,7 +203,7 @@ and stimulus modalities
     <td class="tg-wo29">Feb 12, 2026</td>
     <td class="tg-wo29"><a href="https://pubmed.ncbi.nlm.nih.gov/38712051/" target="_blank" rel="noopener noreferrer">Disentangling signal and noise in neural responses through generative modeling
 </a></td>
-    <td class="tg-fzdr">Doruk</td>
+    <td class="tg-fzdr">Niklas</td>
   </tr>
   
 </tbody>
