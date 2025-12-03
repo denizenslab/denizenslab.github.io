@@ -15,25 +15,25 @@ layout: default
   </header>
 
   <article>
-    {% if page.profile %}
-      <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
-        {% if page.profile.image %}
-          {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
-          {% if page.profile.image_circular %}
-            {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
+    {% if page.headerpart %}
+      <div class="profile float-{% if page.headerpart.align == 'left' %}left{% else %}right{% endif %}">
+        {% if page.headerpart.image %}
+          {% assign headerpart_image_path = page.headerpart.image | prepend: 'assets/img/' %}
+          {% if page.headerpart.image_circular %}
+            {% assign headerpart_image_class = 'img-fluid z-depth-1 rounded-circle' %}
           {% else %}
-            {% assign profile_image_class = 'img-fluid z-depth-1
+            {% assign headerpart_image_class = 'img-fluid z-depth-1
       rounded' %}
           {% endif %}
           {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px)
       30vw, 95vw"{% endcapture %}
           {%
-            include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image
+            include figure.liquid loading="eager" path=headerpart_image_path class=headerpart_image_class sizes=sizes alt=page.headerpart.image
             cache_bust=true
           %}
         {% endif %}
-        {% if page.profile.more_info %}
-          <div class="more-info">{{ page.profile.more_info }}</div>
+        {% if page.headerpart.more_info %}
+          <div class="more-info">{{ page.headerpart.more_info }}</div>
         {% endif %}
       </div>
     {% endif %}

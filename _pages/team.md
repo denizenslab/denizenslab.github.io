@@ -3,7 +3,13 @@ layout: profiles
 permalink: /team/
 title: Team
 description: Meet our amazing team!
+header_image: "assets/img/group4.jpg"
 nav: false
+
+headerpart:
+  align: right
+  image: group4.jpg
+  image_circular: false # crops the image to make it circular
 
 profiles:
   # if you want to include more than one profile, just replicate the following block

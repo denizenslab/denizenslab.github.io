@@ -6,9 +6,9 @@ subtitle: <a href='https://www.tu.berlin/coco'>Cognitive Computing in Biological
 background:
   image: bg-static.jpg
 
-profile:
+headerpart:
   align: center
-  image: group4.jpg
+  image: group1_cropped.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>TU Berlin, MAR building</p> <br>
