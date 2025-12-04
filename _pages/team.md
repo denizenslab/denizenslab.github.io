@@ -14,50 +14,58 @@ headerpart:
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
-  - align: right
+  - align: left
     image: team/fatma.jpg
-    content: 11fatma.md
+    content: 01fatma.md
     image_circular: true # crops the image to make it circular
 #     more_info: >
 #       <p>url: mailto:deniz@tu-berlin.de    icon: fas fa-envelope</p>
-  - align: left
+  - align: right
     image: team/subba.jpg
-    content: 12subba.md
+    content: 02subba.md
     image_circular: true
-  - align: right
+  - align: left
     image: team/chris.jpg
-    content: 21chris.md
+    content: 03chris.md
     image_circular: true
-  - align: left
+  - align: right
     image: team/mathis.jpg
-    content: 3mathis.md
+    content: 04mathis.md
     image_circular: true
-  - align: right
+  - align: left
     image: team/anuja.jpg
-    content: 4anuja.md
+    content: 05anuja.md
     image_circular: true
-  - align: left
+  - align: right
     image: team/peter.jpeg
-    content: 5peter.md
+    content: 06peter.md
     image_circular: true
-  - align: right
+  - align: left
     image: team/omar.jpg
-    content: 6omar.md
+    content: 07omar.md
     image_circular: true
-  - align: left
+  - align: right
     image: team/lea.jpeg
-    content: 7lea.md
-    image_circular: true
-  - align: right
-    image: team/abeni.jpg
-    content: 8abeni.md
+    content: 08lea.md
     image_circular: true
   - align: left
-    image: team/salomeia.jpg
-    content: 91salomeia.md
+    image: team/abeni.jpg
+    content: 09abeni.md
     image_circular: true
   - align: right
+    image: team/salomeia.jpg
+    content: 10salomeia.md
+    image_circular: true
+  - align: left
     image: team/abdalmajead.png
-    content: 92abdalmajead.md
+    content: 11abdalmajead.md
+    image_circular: true
+  - align: right
+    image: team/rohit.png
+    content: 12rohit.md
+    image_circular: true
+  - align: left
+    image: team/mahdi.png
+    content: 13mahdi.md
     image_circular: true
 ---
