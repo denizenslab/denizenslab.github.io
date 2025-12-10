@@ -8,6 +8,6 @@ Congratulations! Our PI Fatma Deniz was today <a href="https://www.zeit.de/news/
 
 <div class="row">
     <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/news/fatma_election.jpg" title="FatmaElection" class="img-fluid rounded z-depth-1"%}
+        {% include figure.liquid loading="eager" path="assets/img/news/Prof. Dr. Fatma Deniz_allefarben-foto (0)[1].jpg" title="FatmaElection" class="img-fluid rounded z-depth-1"%}
     </div>
 </div>
