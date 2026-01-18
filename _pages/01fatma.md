@@ -12,4 +12,4 @@ She also worked on improving online user authentication applications using image
 
 Fatma is a passionate coder, baker, and she loves feeling the resonance when playing the cello which makes her simply happy.
 
-### <a href="mailto:deniz@tu-berlin.de" title="Email"><i class="fa-solid fa-envelope"></i></a> <a href="https://www.fatmanet.com/" title="Work"><i class="fa-solid fa-briefcase"></i></a> <a href="https://www.linkedin.com/in/fatma-deniz/" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a> <a href="https://scholar.google.com/citations?user=B5Gh1GsAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+### <a href="https://www.fatmanet.com/" title="Work"><i class="fa-solid fa-briefcase"></i></a> <a href="https://www.linkedin.com/in/fatma-deniz/" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a> <a href="https://scholar.google.com/citations?user=B5Gh1GsAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
