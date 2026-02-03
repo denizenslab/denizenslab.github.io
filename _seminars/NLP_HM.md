@@ -10,7 +10,7 @@ related_publications: false
 ---
 **INFO: This course will NOT take place in WiSe25 or SoSe26.**
 
-Instructors: [Anuja Negi](https://anujanegi.me/), Mathis Lamarre, [Subba Reddy Oota](https://sites.google.com/view/subbareddyoota300/home), [Fatma Deniz](https://www.fatmanet.com/)
+Instructors: [Anuja Negi](https://anujanegi.me/), Mathis Lamarre, [Fatma Deniz](https://www.fatmanet.com/)
 
 - [Overview](#overview)
 - [Content](#content)

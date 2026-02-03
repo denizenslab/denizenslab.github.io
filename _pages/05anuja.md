@@ -5,7 +5,7 @@
 **Office hours:** on appointment <br>
 
 <!-- <p style="text-align: left"> -->
-Anuja Negi is curious about how the brain represents data. Her current research focuses on language comprehension and learning, bridging neuroscience and AI—using one to better understand and improve the other.
+Anuja Negi is curious about how the brain represents data. Her current research focuses on language comprehension and semantics, bridging neuroscience and AI—using one to better understand and improve the other.
 
 Beyond research, she is passionate about science communication and outreach. She is currently organizing SoapBox Science Berlin and the German Neuroscience Olympiad. When not behind a screen, she enjoys painting, playing basketball, and attempting to learn a musical instrument (with varying degrees of success!).
 
