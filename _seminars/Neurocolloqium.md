@@ -2,7 +2,7 @@
 layout: page
 title: Neurocolloquium
 description: Journal Club
-img: assets/img/neurocolloquium.png #add img here, place it in /assets/img/
+img: assets/img/teaching/neurocolloquium.png #add img here, place it in /assets/img/
 importance: 1
 category: WiSe25
 related_publications: false
