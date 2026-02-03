@@ -65,7 +65,7 @@ profiles:
     content: 12sarib.md
     image_circular: true
   - align: left
-    image: team/rohit.png
+    image: team/rohit.jpg
     content: 12rohit.md
     image_circular: true
   - align: right
