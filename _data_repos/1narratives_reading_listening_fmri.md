@@ -2,7 +2,7 @@
 layout: page
 title: Human fMRI while Reading and Listening to Narratives
 description: BOLD fMRI responses in human subjects reading and listening to a set of natural stories.
-img: assets/img/data_repos/narratives_reading_listening_fmri.gif
+img: assets/img/data_repos/SemanticMaps_Lateral_only_FINAL.jpg
 importance: 1
 category: public
 related_publications: false
