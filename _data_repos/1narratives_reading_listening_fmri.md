@@ -7,7 +7,7 @@ importance: 1
 category: public
 related_publications: false
 ---
-<a href="https://gin.g-node.org/denizenslab/narratives_reading_listening_fmri" title="Link"><i class="fas fa-globe"></i></a>
+<a href="https://gin.g-node.org/denizenslab/narratives_reading_listening_fmri" title="The dataset:"><i class="fas fa-globe"></i></a>
 
 More information can be found in:
 
