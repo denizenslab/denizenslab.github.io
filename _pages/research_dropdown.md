@@ -16,4 +16,7 @@ children:
   - title: divider
   - title: Code
     permalink: /code/
+  - title: divider
+  - title: Brain Viewers
+    permalink: /brain_viewers/
 ---
