@@ -161,6 +161,8 @@ collections:
     output: true
   data_repos:
     output: true
+  brain_viewers:
+    output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
