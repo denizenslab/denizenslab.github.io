@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Deutsche Forschungsgemeinschaft
-description: German state research funding agency
+description: German Research Foundation 
 img: assets/img/funding/dfg.jpg
 importance: 1
 category: public
