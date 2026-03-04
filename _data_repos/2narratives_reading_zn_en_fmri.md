@@ -2,7 +2,7 @@
 layout: page
 title: Bilingual Reading fMRI Dataset (Chinese–English)
 description: BOLD fMRI responses in human subjects reading to a set of natural stories in Chinese and English.
-img: assets/img/data_repos/narratives_zh_en_fmri.jpg
+img: assets/img/data_repos/chen2026.png
 importance: 1
 category: public
 related_publications: false

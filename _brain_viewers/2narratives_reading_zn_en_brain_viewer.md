@@ -2,12 +2,12 @@
 layout: page
 title: Bilingual Reading Interactive Brain Viewer
 description: Interact with the data and results of the study by Chen et al. 2026
-img: assets/img/data_repos/narratives_zh_en_fmri.jpg
+img: assets/img/data_repos/chen2026.png
 importance: 1
 category: public
 related_publications: false
 ---
-<a href="https://blsemc.github.io/viewer/" title="Link"><i class="fas fa-globe"></i></a>
+<a href="https://blsemc.github.io/viewer/" title="Interactive brain viewer Chen et al. 2026"><i class="fas fa-globe"></i></a>
 
 The dataset was collected to study bilingual language processing and semantic representation across languages. Full experimental details, task design, and analysis methods are described in the original publication:
 

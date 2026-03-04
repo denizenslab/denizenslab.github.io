@@ -7,7 +7,7 @@ importance: 1
 category: public
 related_publications: false
 ---
-<a href="https://denizenslab.github.io/viewer-deniz-2019/" title="Link"><i class="fas fa-globe"></i></a>
+<a href="https://denizenslab.github.io/viewer-deniz-2019/" title="Interactive brain viewer for Deniz et al. 2019"><i class="fas fa-globe"></i></a>
 
 The dataset was collected to study language processing and semantic representation during reading and listening to narrative stories. Full experimental details, task design, and analysis methods are described in the original publication:
 
