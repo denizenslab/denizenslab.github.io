@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Human fMRI while Chinese and English speaking people read Narratives
+title: Bilingual Reading fMRI Dataset (Chinese–English)
 description: BOLD fMRI responses in human subjects reading to a set of natural stories in Chinese and English.
 img: assets/img/data_repos/narratives_zh_en_fmri.jpg
 importance: 1
