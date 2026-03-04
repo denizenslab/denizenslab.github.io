@@ -2,7 +2,7 @@
 layout: page
 title: Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)
 description: Federal Ministry of Research, Technology, and Space
-img: assets/img/funding/bmftr.svg
+img: assets/img/funding/bmftr_en.svg
 importance: 2
 category: public
 related_publications: false
