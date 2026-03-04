@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Bundesministerium für Bildung und Forschung (BMBF)
-description: German state ministry of education and research
-img: assets/img/funding/bmbf.jpeg
+title: Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)
+description: Federal Ministry of Research, Technology, and Space
+img: assets/img/funding/bmftr.svg
 importance: 2
 category: public
 related_publications: false
