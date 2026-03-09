@@ -17,6 +17,10 @@ profiles:
     content: 11lily.md
     image_circular: true
   - align: left
+    image: team/lea.jpeg
+    content: 08lea.md
+    image_circular: true
+  - align: right
     image: alumni/bram.jpeg
     content: 12bram.md
     image_circular: true # crops the image to make it circular
