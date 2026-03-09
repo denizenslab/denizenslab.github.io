@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Bilingual Reading Interactive Brain Viewer
+title: Bilingual language processing during reading
 description: Interact with the data and results of the study by Chen et al. 2026
 img: assets/img/data_repos/chen2026.png
 importance: 1
 category: public
 related_publications: false
+link: https://blsemc.github.io/viewer/
 ---
 <a href="https://blsemc.github.io/viewer/" title="Click for the interactive brain viewer for Chen et al. 2026"><i class="fas fa-globe"></i></a>
 

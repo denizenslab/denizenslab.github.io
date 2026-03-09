@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Human fMRI while subjects reading and listening to English narrative stories
+title: Semantic representations during reading and listening to English narrative stories
 description: Interact with the data and results of the study by Deniz et al. 2019
 img: assets/img/data_repos/SemanticMaps_Lateral_only_FINAL.jpg
 importance: 1
 category: public
 related_publications: false
+link: https://denizenslab.github.io/viewer-deniz-2019/
 ---
 <a href="https://denizenslab.github.io/viewer-deniz-2019/" title=" Click for the interactive brain viewer for Deniz et al. 2019:"><i class="fas fa-globe"></i></a>
 
