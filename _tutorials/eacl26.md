@@ -17,25 +17,25 @@ This tutorial explores brain-language model alignment, covering encoding models,
 <div class="row mt-3 text-center">
   <div class="col-sm-3">
     <a href="http://anujanegi.me/">
-      {% include figure.liquid loading="eager" path="assets/img/team/anuja.jpg" class="img-fluid rounded-circle z-depth-1" style="width:120px;height:120px;object-fit:cover;" %}
+      <img src="/assets/img/team/anuja.jpg" alt="Anuja Negi" class="rounded-circle z-depth-1" style="width:120px;height:120px;object-fit:cover;">
     </a>
     <p class="mt-2"><a href="http://anujanegi.me/"><strong>Anuja Negi</strong></a><br><small>PhD candidate, TU Berlin</small></p>
   </div>
   <div class="col-sm-3">
     <a href="https://scholar.google.com/citations?user=uQ-FSzQAAAAJ&hl=en">
-      {% include figure.liquid loading="eager" path="assets/img/team/mathis.jpg" class="img-fluid rounded-circle z-depth-1" style="width:120px;height:120px;object-fit:cover;" %}
+      <img src="/assets/img/team/mathis.jpg" alt="Mathis Lamarre" class="rounded-circle z-depth-1" style="width:120px;height:120px;object-fit:cover;">
     </a>
     <p class="mt-2"><a href="https://scholar.google.com/citations?user=uQ-FSzQAAAAJ&hl=en"><strong>Mathis Lamarre</strong></a><br><small>PhD candidate, TU Berlin</small></p>
   </div>
   <div class="col-sm-3">
     <a href="https://scholar.google.com/citations?user=9agRgt8AAAAJ&hl=en">
-      {% include figure.liquid loading="eager" path="assets/img/team/chris.jpg" class="img-fluid rounded-circle z-depth-1" style="width:120px;height:120px;object-fit:cover;" %}
+      <img src="/assets/img/team/chris.jpg" alt="Christine Tseng" class="rounded-circle z-depth-1" style="width:120px;height:120px;object-fit:cover;">
     </a>
     <p class="mt-2"><a href="https://scholar.google.com/citations?user=9agRgt8AAAAJ&hl=en"><strong>Dr. Christine Tseng</strong></a><br><small>Postdoc, TU Berlin</small></p>
   </div>
   <div class="col-sm-3">
     <a href="https://subbareddy248.github.io/">
-      {% include figure.liquid loading="eager" path="assets/img/alumni/subba.jpg" class="img-fluid rounded-circle z-depth-1" style="width:120px;height:120px;object-fit:cover;" %}
+      <img src="/assets/img/alumni/subba.jpg" alt="Subba Reddy Oota" class="rounded-circle z-depth-1" style="width:120px;height:120px;object-fit:cover;">
     </a>
     <p class="mt-2"><a href="https://subbareddy248.github.io/"><strong>Dr. Subba Reddy Oota</strong></a><br><small>Research Scientist, ADIA Lab</small></p>
   </div>
@@ -45,10 +45,11 @@ This tutorial explores brain-language model alignment, covering encoding models,
 
 | Time | Topic | Speaker |
 |------|-------|---------|
-| 9:00–9:45 | Brain Encoding/Decoding Introduction | Christine Tseng |
-| 9:45–10:30 | LLM Representations for Brain Models | Mathis Lamarre |
-| 11:00–11:40 | Fine-tuning & Scaling Laws | Anuja Negi |
+| 9:00–9:45 | Introduction to Brain Encoding and Decoding | Christine Tseng |
+| 9:45–10:30 | Representations from LLMs for brain encoding models | Mathis Lamarre |
+| 11:00–11:40 | Scaling laws and Fine-tuning for language models with brain data | Anuja Negi |
 | 11:40–12:20 | Linguistic Brain Decoding | Subba Reddy Oota |
+
 
 #### Learning Objectives
 - Understand fundamental concepts of brain-AI alignment and encoding models
