@@ -10,4 +10,7 @@ children:
   - title: divider
   - title: Seminars
     permalink: /seminars/
+  - title: divider
+  - title: Tutorials
+    permalink: /tutorials/
 ---

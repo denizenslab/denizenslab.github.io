@@ -163,6 +163,8 @@ collections:
     output: true
   brain_viewers:
     output: true
+  tutorials:
+    output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
