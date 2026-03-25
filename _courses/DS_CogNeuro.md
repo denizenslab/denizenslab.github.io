@@ -4,10 +4,14 @@ title: Data Science for Cognitive Neuroscience
 description: DS_CogNeuro
 img: assets/img/teaching/logo-transparent.png
 importance: 1
-category: SoSe25
+category: archive
 related_publications: false
 # redirect:
 ---
+
+<div style="background-color: #fff3cd; border: 1px solid #ffc107; border-radius: 4px; padding: 12px 16px; margin-bottom: 16px;">
+  <strong>⚠️ Note:</strong> This course will unfortunately not be offered in SoSe26.
+</div>
 
 Instructor: [Anuja Negi](https://anujanegi.me/), [Fatma Deniz](https://www.fatmanet.com/)
 
