@@ -9,11 +9,9 @@ related_publications: false
 # redirect:
 ---
 
-**INFO: This course will NOT take place in WiSe25/26. Please contact l.musiolek@tu-berlin.de with any questions.**
+## General information
 
-## General information (outdated)
-
-Instructor: [Hamid Mostofi-Darbani](https://www.tu.berlin/en/arte/ueber-uns/team/wissenschaftliche-mitarbeiterinnen/mostofi-darbani-hamid-dr), [Lea Musiolek](https://leamusiolek.de/), [Fatma Deniz](https://www.fatmanet.com/)
+Instructor: [Tilo Schwalger](https://page.math.tu-berlin.de/~schwalge/), Omar Sherif, Chris Tseng, [Fatma Deniz](https://www.fatmanet.com/)
 
 - [Overview](#overview)
 - [Content](#content)
@@ -23,7 +21,7 @@ Instructor: [Hamid Mostofi-Darbani](https://www.tu.berlin/en/arte/ueber-uns/team
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/dlds.png" title="DLDS_logo" class="img-fluid rounded z-depth-1"%}
+        {% include figure.liquid loading="eager" path="assets/img/teaching/dlds.png" title="DLDS_logo" class="img-fluid rounded z-depth-1"%}
     </div>
 </div>
 
@@ -53,7 +51,7 @@ Instructor: [Hamid Mostofi-Darbani](https://www.tu.berlin/en/arte/ueber-uns/team
   </tr>
   <tr>
     <td class="tg-wo29">Lecture Period</td>
-    <td class="tg-wo29">Apr 14 - July 20, 2025</td>
+    <td class="tg-wo29">April 13 – July 18, 2026</td>
   </tr>
   <tr>
     <td class="tg-wo29">TU Moses page</td>
@@ -61,7 +59,7 @@ Instructor: [Hamid Mostofi-Darbani](https://www.tu.berlin/en/arte/ueber-uns/team
   </tr>
   <tr>
     <td class="tg-wo29">TU ISIS page</td>
-    <td class="tg-wo29"><a href="https://isis.tu-berlin.de/course/view.php?id=41930" target="_blank" rel="noopener noreferrer">link</a></td>
+    <td class="tg-wo29"><a href="https://isis.tu-berlin.de/course/view.php?id=46283" target="_blank" rel="noopener noreferrer">link</a></td>
   </tr>
 </tbody>
 </table>
