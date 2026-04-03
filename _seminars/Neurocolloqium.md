@@ -19,7 +19,7 @@ Instructors: Mathis Lamarre, [Anuja Negi](https://anujanegi.me/), [Fatma Deniz](
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/neurocolloquium.png" title="neurocolloquium_logo" class="img-fluid rounded z-depth-1"%}
+        {% include figure.liquid loading="eager" path="assets/img/teaching/neurocolloquium.png" title="neurocolloquium_logo" class="img-fluid rounded z-depth-1"%}
     </div>
 </div>
 
@@ -49,7 +49,7 @@ Instructors: Mathis Lamarre, [Anuja Negi](https://anujanegi.me/), [Fatma Deniz](
   </tr>
   <tr>
     <td class="tg-wo29">Lecture Period</td>
-    <td class="tg-wo29">Apr 2026 - Jul 2026</td>
+    <td class="tg-wo29">April 13 – July 18, 2026</td>
   </tr>
   <tr>
     <td class="tg-wo29">Time</td>
