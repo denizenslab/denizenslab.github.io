@@ -5,7 +5,7 @@ permalink: /courses/
 description: Courses offered by the Denizens Lab
 nav: false
 nav_order: 
-display_categories: [SoSe25, archive]
+display_categories: [SoSe26, archive]
 horizontal: false
 ---
 

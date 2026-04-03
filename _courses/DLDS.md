@@ -4,7 +4,7 @@ title: Foundations of Data Literacy and Data Science
 description: DLDS
 img: assets/img/teaching/dlds.png
 importance: 2
-category: SoSe25
+category: SoSe26
 related_publications: false
 # redirect:
 ---
