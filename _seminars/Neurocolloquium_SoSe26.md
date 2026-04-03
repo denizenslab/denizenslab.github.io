@@ -77,7 +77,7 @@ Furthermore, they will learn to read and discuss scientific articles and gain an
 
 Each week, one paper will be read in advance and discussed together in detail.
 At the beginning of the course, each student will be assigned one paper for which they will prepare a small presentation of the methods section which they will present prior to the discussion.
-Depending in the scope of these method sections, presentations should be around 10-15 minutes and should be accompanied by slides.
+Depending on the scope of these method sections, presentations should be around 10-15 minutes and should be accompanied by slides.
 
 ## Schedule
 
