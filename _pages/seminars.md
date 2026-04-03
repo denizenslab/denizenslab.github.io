@@ -5,7 +5,7 @@ permalink: /seminars/
 description: Seminars offered by the Denizens Lab
 nav: false
 nav_order: 
-display_categories: [WiSe25, SoSe25, WiSe24, archive]
+display_categories: [SoSe26, WiSe25, SoSe25, WiSe24, archive]
 horizontal: false
 ---
 
