@@ -68,4 +68,7 @@ profiles:
     image: team/mahdi.png
     content: 13mahdi.md
     image_circular: true
+  - align: right
+    content: 14florian.md
+    image_circular: true
 ---
