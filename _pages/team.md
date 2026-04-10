@@ -49,22 +49,26 @@ profiles:
     content: 09abeni.md
     image_circular: true
   - align: left
+    image: team/florian.jpg
+    content: 14florian.md
+    image_circular: true
+  - align: right
     image: team/salomeia.jpg
     content: 10salomeia.md
     image_circular: true
-  - align: right
+  - align: left
     image: team/abdalmajead.png
     content: 11abdalmajead.md
     image_circular: true
-  - align: left
+  - align: right
     image: team/sarib.jpeg
     content: 12sarib.md
     image_circular: true
-  - align: right
+  - align: left
     image: team/rohit.jpg
     content: 12rohit.md
     image_circular: true
-  - align: left
+  - align: right
     image: team/mahdi.png
     content: 13mahdi.md
     image_circular: true
