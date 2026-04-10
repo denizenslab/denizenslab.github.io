@@ -8,7 +8,7 @@ category: 2026
 related_publications: false
 ---
 
-**Date:** March 29, 2026 | **Venue:** EACL 2026, Rabat, Morocco | [Conference Website](https://2026.eacl.org/)
+**Date:** March 29, 2026 | **Venue:** EACL 2026, Rabat, Morocco | [Conference Website](https://2026.eacl.org/) | [Recording](https://us06web.zoom.us/rec/play/oRh26XL1tFVIclxurXWTsZYad0Z65mFG_FtKDDE-Jnh8TlqynWD0hRI27XPm1AepSNlkDAFxfDTM6MtW.HPKV_p52BXV7urY7?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&startTime=1774766172000&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2FovnYDgZJoLFjzcWqkAuiel9iELHiZSx0kmcvQrHtZFRL5pStVdZzUEergzEZx18C.vIl-l5_Zj96nA_PE%3FstartTime%3D1774766172000)
 
 This tutorial explores brain-language model alignment, covering encoding models, scaling laws, multilingual brain processing, fine-tuning approaches, and semantic reconstruction from neural data using computational frameworks from the emerging NeuroAI field.
 
