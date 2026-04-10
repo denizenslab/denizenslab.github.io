@@ -49,6 +49,7 @@ profiles:
     content: 09abeni.md
     image_circular: true
   - align: left
+    image: team/florian.jpg
     content: 14florian.md
     image_circular: true
   - align: right
