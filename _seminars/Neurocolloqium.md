@@ -85,4 +85,39 @@ Depending in the scope of these method sections, presentations should be around 
 
 ## Schedule
 
-⚠️ **Note: The schedule will be updated soon.**
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-wo29{border-color:#c0c0c0;text-align:left;vertical-align:top}
+.tg .tg-fzdr{border-color:#c0c0c0;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 750px">
+<colgroup>
+<col style="width: 80px">
+<col style="width: 350px">
+<col style="width: 100px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-wo29">Date</td>
+    <td class="tg-wo29">Paper</td>
+    <td class="tg-fzdr">Presenter</td>
+  </tr>
+  <tr>
+    <td class="tg-wo29">Apr 16, 2026</td>
+    <td class="tg-wo29">Introduction to brain encoding and decoding models: part I</td>
+    <td class="tg-fzdr">Chris</td>
+  </tr>
+  <tr>
+    <td class="tg-wo29">Apr 23, 2026</td>
+    <td class="tg-wo29">Introduction to brain encoding and decoding models: part II</td>
+    <td class="tg-fzdr">-</td>
+  </tr>
+
+
+</tbody>
+</table>
+<br>
