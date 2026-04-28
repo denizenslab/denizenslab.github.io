@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Berliner ChancengleichheitsProgramm
-description: erliner ChancengleichheitsProgramm
+description: Berliner ChancengleichheitsProgramm
 img: assets/img/funding/bcp.jpg
-importance: 1
+importance: 2
 category: public
 related_publications: false
 ---
