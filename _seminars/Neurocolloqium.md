@@ -123,7 +123,7 @@ Depending in the scope of these method sections, presentations should be around 
   </tr>
   <tr>
     <td class="tg-wo29">May 07, 2026</td>
-    <td class="tg-wo29"><a href="https://www.nature.com/articles/s41467-025-65518-0" target="_blank" rel="noopener noreferrer">Temporal structure of natural language processing in the human brain corresponds to layered hierarchy of large language models</a></td>
+    <td class="tg-wo29"><a href="https://www.biorxiv.org/content/10.1101/2025.06.17.660057v2.abstract" target="_blank" rel="noopener noreferrer">Hierarchical Brain–LLM Alignment Reveals Layer-Specific Neural Representations of Second Language Proficiency</a></td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
@@ -133,23 +133,23 @@ Depending in the scope of these method sections, presentations should be around 
   </tr>
   <tr>
     <td class="tg-wo29">May 21, 2026</td>
+    <td class="tg-wo29"><a href="https://www.nature.com/articles/s41467-025-65518-0" target="_blank" rel="noopener noreferrer">Temporal structure of natural language processing in the human brain corresponds to layered hierarchy of large language models</a></td>
+    <td class="tg-fzdr">Sarah</td>
+  </tr>
+  <tr>
+    <td class="tg-wo29">May 28, 2026</td>
+    <td class="tg-wo29"><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2422097122" target="_blank" rel="noopener noreferrer">Hierarchical dynamic coding coordinates speech comprehension in the human brain</a></td>
+    <td class="tg-fzdr">-</td>
+  </tr>
+  <tr>
+    <td class="tg-wo29">Jun 04, 2026</td>
     <td class="tg-wo29"><a href="https://arxiv.org/pdf/2603.15381" target="_blank" rel="noopener noreferrer">Why AI systems don’t learn and what to do about it
 Lessons on autonomous learning from cognitive science</a></td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
-    <td class="tg-wo29">May 28, 2026</td>
-    <td class="tg-wo29"><a href="https://arxiv.org/abs/2603.06557" target="_blank" rel="noopener noreferrer">Causal Interpretation of Neural Network Computations with Contribution Decomposition</a></td>
-    <td class="tg-fzdr">-</td>
-  </tr>
-  <tr>
-    <td class="tg-wo29">Jun 04, 2026</td>
-    <td class="tg-wo29"><a href="https://www.biorxiv.org/content/10.1101/2025.06.17.660057v2.abstract" target="_blank" rel="noopener noreferrer">Hierarchical Brain–LLM Alignment Reveals Layer-Specific Neural Representations of Second Language Proficiency</a></td>
-    <td class="tg-fzdr">-</td>
-  </tr>
-  <tr>
     <td class="tg-wo29">Jun 11, 2026</td>
-    <td class="tg-wo29"><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2422097122" target="_blank" rel="noopener noreferrer">Hierarchical dynamic coding coordinates speech comprehension in the human brain</a></td>
+    <td class="tg-wo29"><a href="https://arxiv.org/abs/2603.06557" target="_blank" rel="noopener noreferrer">Causal Interpretation of Neural Network Computations with Contribution Decomposition</a></td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
@@ -170,7 +170,7 @@ Lessons on autonomous learning from cognitive science</a></td>
   <tr>
     <td class="tg-wo29">Jul 09, 2026</td>
     <td class="tg-wo29"><a href="https://www.arxiv.org/abs/2510.02354" target="_blank" rel="noopener noreferrer">Modeling the language cortex with form-independent and enriched representations of sentence meaning reveals remarkable semantic abstractness</a></td>
-    <td class="tg-fzdr">-</td>
+    <td class="tg-fzdr">Sarah</td>
   </tr>
   <tr>
     <td class="tg-wo29">Jul 16, 2026</td>
