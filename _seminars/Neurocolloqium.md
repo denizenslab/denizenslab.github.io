@@ -124,7 +124,7 @@ Depending in the scope of these method sections, presentations should be around 
   <tr>
     <td class="tg-wo29">May 07, 2026</td>
     <td class="tg-wo29"><a href="https://www.biorxiv.org/content/10.1101/2025.06.17.660057v2.abstract" target="_blank" rel="noopener noreferrer">Hierarchical Brain–LLM Alignment Reveals Layer-Specific Neural Representations of Second Language Proficiency</a></td>
-    <td class="tg-fzdr">-</td>
+    <td class="tg-fzdr">Peter</td>
   </tr>
   <tr>
     <td class="tg-wo29">May 14, 2026</td>
@@ -139,33 +139,33 @@ Depending in the scope of these method sections, presentations should be around 
   <tr>
     <td class="tg-wo29">May 28, 2026</td>
     <td class="tg-wo29"><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2422097122" target="_blank" rel="noopener noreferrer">Hierarchical dynamic coding coordinates speech comprehension in the human brain</a></td>
-    <td class="tg-fzdr">-</td>
+    <td class="tg-fzdr">Anuja</td>
   </tr>
   <tr>
     <td class="tg-wo29">Jun 04, 2026</td>
-    <td class="tg-wo29"><a href="https://arxiv.org/pdf/2603.15381" target="_blank" rel="noopener noreferrer">Why AI systems don’t learn and what to do about it
-Lessons on autonomous learning from cognitive science</a></td>
-    <td class="tg-fzdr">-</td>
+    <td class="tg-wo29"><a href="https://arxiv.org/abs/2603.06557" target="_blank" rel="noopener noreferrer">Causal Interpretation of Neural Network Computations with Contribution Decomposition</a></td>
+    <td class="tg-fzdr">Omar</td>
   </tr>
   <tr>
     <td class="tg-wo29">Jun 11, 2026</td>
-    <td class="tg-wo29"><a href="https://arxiv.org/abs/2603.06557" target="_blank" rel="noopener noreferrer">Causal Interpretation of Neural Network Computations with Contribution Decomposition</a></td>
-    <td class="tg-fzdr">-</td>
+    <td class="tg-wo29"><a href="https://arxiv.org/pdf/2603.15381" target="_blank" rel="noopener noreferrer">Why AI systems don’t learn and what to do about it
+Lessons on autonomous learning from cognitive science</a></td>
+    <td class="tg-fzdr">Mathis</td>
   </tr>
   <tr>
     <td class="tg-wo29">Jun 18, 2026</td>
     <td class="tg-wo29"><a href="https://www.nature.com/articles/s41467-025-66731-7" target="_blank" rel="noopener noreferrer">Text-to-music generation models capture musical semantic representations in the human brain</a></td>
-    <td class="tg-fzdr">-</td>
+    <td class="tg-fzdr">Peter</td>
   </tr>
   <tr>
     <td class="tg-wo29">Jun 25, 2026</td>
     <td class="tg-wo29"><a href="https://www.nature.com/articles/s41586-025-09215-4" target="_blank" rel="noopener noreferrer">A foundation model to predict and capture human cognition</a></td>
-    <td class="tg-fzdr">-</td>
+    <td class="tg-fzdr">Anuja</td>
   </tr>
   <tr>
     <td class="tg-wo29">Jul 02, 2026</td>
     <td class="tg-wo29"><a href="https://ai.meta.com/research/publications/a-foundation-model-of-vision-audition-and-language-for-in-silico-neuroscience/" target="_blank" rel="noopener noreferrer">A foundation model of vision, audition, and language for in-silico neuroscience</a></td>
-    <td class="tg-fzdr">-</td>
+    <td class="tg-fzdr">Omar</td>
   </tr>
   <tr>
     <td class="tg-wo29">Jul 09, 2026</td>
@@ -175,12 +175,12 @@ Lessons on autonomous learning from cognitive science</a></td>
   <tr>
     <td class="tg-wo29">Jul 16, 2026</td>
     <td class="tg-wo29"><a href="https://arxiv.org/abs/2405.07987" target="_blank" rel="noopener noreferrer">The Platonic Representation Hypothesis</a></td>
-    <td class="tg-fzdr">-</td>
+    <td class="tg-fzdr">Chris</td>
   </tr>
   <tr>
     <td class="tg-wo29">Jul 16, 2026</td>
     <td class="tg-wo29"><a href="https://arxiv.org/abs/2602.14486" target="_blank" rel="noopener noreferrer">Revisiting the Platonic Representation Hypothesis: An Aristotelian View</a></td>
-    <td class="tg-fzdr">-</td>
+    <td class="tg-fzdr">Chris</td>
   </tr>
 
 
