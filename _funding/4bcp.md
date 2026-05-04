@@ -7,4 +7,4 @@ importance: 2
 category: public
 related_publications: false
 ---
-<a href="https://www.dfg.de/de" title="Link"><i class="fas fa-globe"></i></a>
+<a href="https://www.tu.berlin/gleichstellung/programme-und-weiterbildung/programme-des-kfg/berliner-chancengleichheitsprogramm" title="Link"><i class="fas fa-globe"></i></a>
